@@ -1,7 +1,7 @@
 ## Linux Namespaces
 - [x] [frfahim/network-namespace](https://github.com/frfahim/network-namespace?tab=readme-ov-file)
 - [x] [Exploring Namespaces and Virtual Ethernet Networks: A Step-by-Step Tutorial](https://dev.to/tanvirrahman/exploring-namespaces-and-virtual-ethernet-networks-a-step-by-step-tutorial-575i)
-- [Network Namespace with Egress and Ingress Traffic](https://github.com/dipanjal/DevOps/tree/main/NetNS_Ingress_Egress_Traffic)
+- [x] [Network Namespace with Egress and Ingress Traffic](https://github.com/dipanjal/DevOps/tree/main/NetNS_Ingress_Egress_Traffic)
 - [Using network namespaces and a virtual switch to isolate servers](https://ops.tips/blog/using-network-namespaces-and-bridge-to-isolate-servers/)
 - [Understanding container networking using linux network namespaces and a virtual switch to isolate servers](https://github.com/faysalmehedi/linux-network-namespaces-hands-on)
 - [Introduction to Container Networking](https://www.suse.com/c/rancher_blog/introduction-to-container-networking/)
