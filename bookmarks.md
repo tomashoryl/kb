@@ -10,3 +10,8 @@
 - [Network namespaces](https://blogs.igalia.com/dpino/2016/04/10/network-namespaces/)
 - [Introducing Linux Network Namespaces](https://blog.scottlowe.org/2013/09/04/introducing-linux-network-namespaces/)
 - [Ops Tips Blog](https://ops.tips/blog/)
+
+## MikroTik Routing
+- [MikroTik Rouging Failover](https://gist.github.com/tdussa/95d036a73bb5ff79924b19b4316ea7ca)
+- [MikroTik Wiki IP Route](https://wiki.mikrotik.com/Manual:IP/Route)
+- [MikroTik IP Routing Documentation](https://help.mikrotik.com/docs/spaces/ROS/pages/328084/IP+Routing)
